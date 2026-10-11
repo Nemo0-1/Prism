@@ -66,9 +66,7 @@ prism/
 ---
 
 ## 📊 Interactive Visualization
-To view the interactive probability shift graph, open `docs/steering_curve.html` in any browser or run:
-explorer.exe docs/steering_curve.html
-
+To view the interactive probability shift graph, open https://prism-steering-1.vercel.app/
 ---
 
 ## 🎯 Next Research Milestones
