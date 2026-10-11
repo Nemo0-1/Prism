@@ -66,7 +66,7 @@ prism/
 ---
 
 ## 📊 Interactive Visualization
-To view the interactive probability shift graph, open --(link to come soon!)
+To view the interactive probability shift graph, open https://prism-jade-chi.vercel.app/
 ---
 
 ## 🎯 Next Research Milestones
