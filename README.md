@@ -66,7 +66,7 @@ prism/
 ---
 
 ## 📊 Interactive Visualization
-To view the interactive probability shift graph, open https://prism-steering-1.vercel.app/
+To view the interactive probability shift graph, open --(link to come soon!)
 ---
 
 ## 🎯 Next Research Milestones
